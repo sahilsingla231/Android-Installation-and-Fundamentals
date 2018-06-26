@@ -24,7 +24,7 @@
     <TextView
         android:id="@+id/t1"
         android:layout_width="141dp"
-        android:layout_height="97dp"
+        android:layout_height="115dp"
         android:text="Hello World!"
         android:textAppearance="@style/TextAppearance.AppCompat.Display2"
         android:visibility="visible"
